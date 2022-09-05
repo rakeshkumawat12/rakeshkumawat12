@@ -1,16 +1,16 @@
 Hi 👋, I'm Rakesh Kumawat
 ===============================
 
-Web Developer and Designer
+Frontend Developer ( ReactJS )
 --------------------------
 
-An experienced Developer with good attention to detail, who can write efficient code using MERN stack. Always willing to learn, to work across technologies and to leverage them to solve real-life problems.
+I am in Final year of my undergraduate degree in Mathematics at the University of Mumbai. Since last 2 years, I have been engaged and focused on UI/UX design, Frontend web development and Data structure and Algorithms. I am in search of an internship/Job where I can use my experience in Website development and UX improvisation to support company needs.
 
-* 🌍  I'm based in Mumbai, Maharashtra.
+* 🌍  I'm based in Mumbai, Maharashtra
 * 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.netlify.app)
 * ✉️  You can contact me at [raqesh77@gmail.com](mailto:raqesh77@gmail.com)
 * 🧠  I'm learning Web3.
-* 🤝  I'm open to collaborating on MERN Stack Projects.
+* 🤝  I'm open to collaborating on Frontend Projects.
 
 ### Skills
 
