@@ -1,7 +1,7 @@
 Hi 👋, I'm Rakesh Kumawat
 ===============================
 
-Full Stack Engineer ( ReactJS )
+Full Stack Engineer
 --------------------------
 
 Hello,
