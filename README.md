@@ -1,12 +1,7 @@
-Hi 👋, I'm Rakesh Kumawat
+Hi 👋, I'm Rakesh Kumawat (Full Stack Engineer)
 ===============================
 
-Full Stack Engineer
---------------------------
-
-Hello,
-
-I'm Rakesh, a Full Stack Engineer with a passion for crafting user-friendly web applications. I specialize in React.js, which helps me create beautiful and functional web interfaces. My expertise extends to integrating APIs and using various tools to enhance the user experience.
+A Full Stack Engineer with a passion for crafting user-friendly web applications. I specialize in React.js, which helps me create beautiful and functional web interfaces. My expertise extends to integrating APIs and using various tools to enhance the user experience.
 
 I'm also well-versed in Firebase, which allows me to build real-time, scalable web apps effortlessly. When it comes to design, I believe in making interfaces visually appealing and easy to navigate.
 
