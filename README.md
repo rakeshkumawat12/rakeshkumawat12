@@ -1,13 +1,13 @@
-Hi 👋, I'm Rakesh Kumawat (Full Stack Engineer)
+Hi 👋, I'm Rakesh Kumawat (Frontend developer)
 ===============================
 
-A Full Stack Engineer with a passion for crafting user-friendly web applications. I specialize in React.js, which helps me create beautiful and functional web interfaces. My expertise extends to integrating APIs and using various tools to enhance the user experience.
+Hello! I’m Rakesh, a Frontend Developer specializing in crafting engaging user experiences. With a sharp eye for detail and a knack for coding.
 
-I'm also well-versed in Firebase, which allows me to build real-time, scalable web apps effortlessly. When it comes to design, I believe in making interfaces visually appealing and easy to navigate.
+I translate design concepts into functional websites and applications, ensuring they are not only visually appealing but also highly performant and user-friendly.
 
-Staying updated with the latest industry technologies is my priority, and I'm always eager to take on new challenges. If you're in need of a Full Stack Engineer experienced you've found the right person.
+Technology evolves rapidly, and so do I. Staying aware of the latest frontend technologies, frameworks, and design trends is not just a job for me; it’s a pursuit I’m deeply passionate about.
 
-If you'd like me to help you, just send me a personal message. I'm also open to freelance projects, so if you have one in mind, let's discuss how I can bring your vision to life.
+Reach out, connect, and let’s make the digital world a little more user-friendly, together.
 
 * 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.netlify.app)
 * ✉️  You can contact me at [raqesh77@gmail.com](mailto:raqesh77@gmail.com)
