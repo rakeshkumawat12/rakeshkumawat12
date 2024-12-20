@@ -9,7 +9,7 @@ Technology evolves rapidly, and so do I. Staying aware of the latest frontend te
 
 Reach out, connect, and let’s make the digital world a little more user-friendly, together.
 
-* 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.netlify.app)
+* 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.vercel.app)
 * ✉️  You can contact me at [raqesh77@gmail.com](mailto:raqesh77@gmail.com)
 * 🤝  I'm open to collaborate.
 
