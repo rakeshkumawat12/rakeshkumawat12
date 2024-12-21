@@ -1,16 +1,16 @@
-Hi 👋, I'm Rakesh Kumawat (Frontend developer)
+Hi, I'm Rakesh Kumawat - Full Stack Developer and Frontend Enthusiast!
 ===============================
 
-Hello! I’m Rakesh, a Frontend Developer specializing in crafting engaging user experiences. With a sharp eye for detail and a knack for coding.
+I'm passionate about crafting dynamic and seamless digital experiences. As a full stack developer, I specialize in building robust end-to-end applications, with a strong inclination towards frontend development where creativity meets functionality.
 
-I translate design concepts into functional websites and applications, ensuring they are not only visually appealing but also highly performant and user-friendly.
+Beyond coding, I enjoy solving challenging programming problems and exploring the exciting world of blockchain and Web3 technologies. With hands-on experience in developing MERN stack applications and cutting-edge RAG (Retrieval-Augmented Generation) solutions, I thrive on innovation and delivering impactful projects.
 
-Technology evolves rapidly, and so do I. Staying aware of the latest frontend technologies, frameworks, and design trends is not just a job for me; it’s a pursuit I’m deeply passionate about.
+Community engagement is close to my heart. I actively contribute to open-source projects, share knowledge through technical blogs and posts on LinkedIn and X (formerly Twitter), and mentor beginners by breaking down complex concepts into clear, actionable insights. Public speaking is another avenue where I connect with the tech community, delivering talks that inspire and educate.
 
-Reach out, connect, and let’s make the digital world a little more user-friendly, together.
+Let's build the future of technology together! 🚀
 
 * 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.vercel.app)
-* ✉️  You can contact me at [raqesh77@gmail.com](mailto:raqesh77@gmail.com)
+* ✉️  You can contact me at [rakeshkumawatrrkk12877@gmail.com](mailto:rakeshkumawatrrkk12877@gmail.com)
 * 🤝  I'm open to collaborate.
 
 ### Socials
