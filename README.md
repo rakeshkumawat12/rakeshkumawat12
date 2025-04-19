@@ -10,7 +10,7 @@ Community engagement is close to my heart. I actively contribute to open-source 
 Let's build the future of technology together! 🚀
 
 * 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.vercel.app)
-* ✉️  You can contact me at [rakeshkumawatrrkk12877@gmail.com](mailto:rakeshkumawatrrkk12877@gmail.com)
+* ✉️  You can contact me at [rakeshkumawat.work@gmail.com](mailto:rakeshkumawat.work@gmail.com)
 * 🤝  I'm open to collaborate.
 
 ### Socials
