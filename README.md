@@ -1,17 +1,11 @@
-Hi, I'm Rakesh Kumawat - Full Stack Developer and Frontend Enthusiast!
+I’m Rakesh Kumawat, a full-stack and blockchain developer.
 ===============================
 
-I'm passionate about crafting dynamic and seamless digital experiences. As a full stack developer, I specialize in building robust end-to-end applications, with a strong inclination towards frontend development where creativity meets functionality.
+Beyond coding, I love connecting with the community. I’ve had the privilege of judging prestigious hackathons, hosting blockchain workshops, and speaking at some of the biggest colleges and tech communities. Sharing knowledge and sparking curiosity in others is something I truly enjoy - whether it’s through a talk, a meetup, or just a casual chat.
 
-Beyond coding, I enjoy solving challenging programming problems and exploring the exciting world of blockchain and Web3 technologies. With hands-on experience in developing MERN stack applications and cutting-edge RAG (Retrieval-Augmented Generation) solutions, I thrive on innovation and delivering impactful projects.
+For me, technology isn’t just a job ~ it’s a way to revolutionize the world. I’m always excited to collaborate with like-minded people who share that vision. If you’re looking for a dedicated developer who brings both
 
-Community engagement is close to my heart. I actively contribute to open-source projects, share knowledge through technical blogs and posts on LinkedIn and X (formerly Twitter), and mentor beginners by breaking down complex concepts into clear, actionable insights. Public speaking is another avenue where I connect with the tech community, delivering talks that inspire and educate.
-
-Let's build the future of technology together! 🚀
-
-* 🖥️  See my portfolio at [MyPortfolio](http://rakeshkumawat.vercel.app)
 * ✉️  You can contact me at [rakeshkumawat.work@gmail.com](mailto:rakeshkumawat.work@gmail.com)
-* 🤝  I'm open to collaborate.
 
 ### Socials
 
