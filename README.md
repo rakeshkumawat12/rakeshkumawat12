@@ -14,8 +14,7 @@
 
 #### Languages & Frameworks
 
-- HTML, CSS, JS, TS
-- React, Next
+- React, Next.js
 - NodeJS, Express
 - MongoDB, Postgres
-- Solidity, Rust
+- Javascript, Typescript, Solidity, Rust
